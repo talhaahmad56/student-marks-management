@@ -16,4 +16,3 @@ A simple Python project to manage student marks using Object-Oriented Programmin
 - `__str__` method
 - While loop & conditionals
 
-
